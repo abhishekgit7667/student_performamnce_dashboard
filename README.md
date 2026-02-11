@@ -25,7 +25,7 @@ An interactive Excel dashboard to analyze student academic performance using Piv
 
 📸 Dashboard Preview
 
-"Dashboard"![dashboard](output\dashboard.png)
+"Dashboard"![dashboard](output/dashboard.png)
 
 📂 Project Structure
 
